@@ -29,13 +29,13 @@ Before running the application, make sure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/prakrit338/End-To-End-Gemini-Project.git
+    git clone https://github.com/prakrit338/Gemini-Pro-LLM-Application.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd End-To-End-Gemini-Project
+    cd Gemini-Pro-LLM-Application
     ```
 
 3. Install dependencies:
