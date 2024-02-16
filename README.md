@@ -13,6 +13,9 @@ Whether you're analyzing datasets, conducting research, or simply exploring visu
 - Chat with Gemini Pro Models for natural language understanding.
 - Upload multiple images and receive descriptions or analysis.
 - Seamless integration with Streamlit for easy interaction.
+<img width="1394" alt="Screenshot 2024-02-16 at 4 37 21 PM" src="https://github.com/prakrit338/Gemini-Pro-LLM-Application/assets/72137633/be2c0a87-782a-49c7-998b-04b6f8bc957f">
+<img width="1390" alt="Screenshot 2024-02-16 at 4 37 36 PM" src="https://github.com/prakrit338/Gemini-Pro-LLM-Application/assets/72137633/10916c33-e9b0-47f2-af4a-bdee8d9daac7">
+
 
 ## Setup
 
